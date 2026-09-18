@@ -1,0 +1,6 @@
+.env
+*.pem
+*.pyc
+.venv/*
+*.gguf
+llama.cpp/*
